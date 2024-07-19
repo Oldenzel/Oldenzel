@@ -25,6 +25,9 @@
 <br>
 <div align=center>
     <br>
+<a href="https://www.moti.bio/Oldenzel">
+    <img src="https://github.com/Oldenzel/Oldenzel/blob/main/images%20(2).jfif" width=40>
+</a>
 <a href="https://x.com/Oldenzela">
     <img src="https://github.com/Oldenzel/Oldenzel/blob/main/Twitter%20logo.png" width=40>
 </a>
