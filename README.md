@@ -17,6 +17,9 @@
 <a href="https://socotra.mcnscan.io/chain/2o7k5CsYB85Fb1dimdrkwhHCeGeZ1gpXq1srgT3FTTr1wNvdrP">
     <img src="https://pbs.twimg.com/profile_images/1660629238372790273/zmyiq2yj_200x200.jpg">
 </a>
+<a href="https://testnet.itrocket.net/empower/staking/empowervaloper18t62ldkfaqudtkv8ulk2vn9nlpfysvf90hj99v">
+    <img src="">
+</a>
 
 <ul align="left">
 <li><strong>Email</strong>: <a href="mailto:oldenzel@example.com">oldenzel@example.com</a></li>
