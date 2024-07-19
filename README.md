@@ -1,6 +1,5 @@
-<div align="center">
-    <!-- Background Image -->
-    <img src="background-image-url.jpg" alt="Background Image" width="100%" style="max-height: 300px; object-fit: cover;">
+<div align=center>
+    <img src="background-image-url.jpg" alt="Background Image" width="100%">
 
     <h1>Oldenzel 🚀</h1>
 
