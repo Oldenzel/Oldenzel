@@ -1,7 +1,7 @@
 <div align=center>
     <img src="https://github.com/Oldenzel/Oldenzel/blob/main/Oldenzel-BG.png%20.png">
 
-    <h1>Oldenzel 🚀</h1>
+<h1>Oldenzel 🚀</h1>
 
     <h2>Skills</h2>
     <ul align="left" style="display: inline-block; text-align: left;">
