@@ -27,4 +27,14 @@
 <li><strong>Twitter</strong>: <a href="https://twitter.com/oldenzel">@oldenzel</a> 🐦</li>
 </ul>
 
+<a href="https://x.com/Oldenzela">
+    <img src="https://github.com/Oldenzel/Oldenzel/blob/main/Twitter%20logo.png" width=40>
+</a>
+<a href="https://voracious-walk-472.notion.site/Oldenzel-5a0d01db335841aeb31a1ae7bc58791a">
+    <img src="https://github.com/Oldenzel/Oldenzel/blob/main/Notion_app_logo.png" width=40>
+</a>
+<a href="https://medium.com/@Oldenzel">
+    <img src="https://github.com/Oldenzel/Oldenzel/blob/main/1200px-Medium_logo_Monogram.svg.png" width=40>
+</a>
+
 </div>
