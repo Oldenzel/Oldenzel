@@ -6,6 +6,9 @@
 <a href="https://testnet.side.explorers.guru/validator/bcvaloper1yygv0q9a6yfpzkxarnn4s2mu2s8lue7aqv44fm">
     <img src="https://pbs.twimg.com/profile_images/1666366346492542977/ywO_kmkx_200x200.jpg">
 </a>
+<a href="https://scan.initia.tech/initiation-1/validators/initvaloper10rem5g6ygjmzvmfpmavvxt5wnnkvtejnj093x7">
+    <img src="https://pbs.twimg.com/profile_images/1604751287618113536/ayyW6i94_200x200.jpg">
+</a>
 
 <h2>Skills</h2>
 <ul align="left" style="display: inline-block; text-align: left;">
