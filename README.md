@@ -25,7 +25,7 @@
 <br>
 <div align=center>
     <br>
-<a href="https://www.moti.bio/Oldenzel" hspace=10>
+<a href="https://www.moti.bio/Oldenzel" hspace=40>
     <img src="https://github.com/Oldenzel/Oldenzel/blob/main/images%20(2).jfif" width=40>
 </a>
 <a href="https://x.com/Oldenzela">
