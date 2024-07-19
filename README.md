@@ -18,7 +18,7 @@
     <img src="https://pbs.twimg.com/profile_images/1660629238372790273/zmyiq2yj_200x200.jpg">
 </a>
 <a href="https://testnet.itrocket.net/empower/staking/empowervaloper18t62ldkfaqudtkv8ulk2vn9nlpfysvf90hj99v">
-    <img src="">
+    <img src="https://github.com/Oldenzel/Oldenzel/blob/main/empower.png">
 </a>
 
 <ul align="left">
