@@ -21,11 +21,7 @@
     <img src="https://github.com/Oldenzel/Oldenzel/blob/main/empower.png">
 </a>
 
-<ul align="left">
-<li><strong>Email</strong>: <a href="mailto:oldenzel@example.com">oldenzel@example.com</a></li>
-<li><strong>LinkedIn</strong>: <a href="https://linkedin.com/in/oldenzel">linkedin.com/in/oldenzel</a> 🔗</li>
-<li><strong>Twitter</strong>: <a href="https://twitter.com/oldenzel">@oldenzel</a> 🐦</li>
-</ul>
+<br>
 
 <a href="https://x.com/Oldenzela">
     <img src="https://github.com/Oldenzel/Oldenzel/blob/main/Twitter%20logo.png" width=40>
