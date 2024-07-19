@@ -20,9 +20,7 @@
 <a href="https://testnet.itrocket.net/empower/staking/empowervaloper18t62ldkfaqudtkv8ulk2vn9nlpfysvf90hj99v">
     <img src="https://github.com/Oldenzel/Oldenzel/blob/main/empower.png">
 </a>
-
 <br>
-
 <a href="https://x.com/Oldenzela">
     <img src="https://github.com/Oldenzel/Oldenzel/blob/main/Twitter%20logo.png" width=40>
 </a>
