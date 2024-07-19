@@ -22,6 +22,7 @@
 </a>
 <br>
 
+<div>
 <a href="https://x.com/Oldenzela">
     <img src="https://github.com/Oldenzel/Oldenzel/blob/main/Twitter%20logo.png" width=40>
 </a>
@@ -31,5 +32,6 @@
 <a href="https://medium.com/@Oldenzel">
     <img src="https://github.com/Oldenzel/Oldenzel/blob/main/1200px-Medium_logo_Monogram.svg.png" width=40>
 </a>
+</div>
 
 </div>
