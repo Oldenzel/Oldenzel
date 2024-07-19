@@ -21,8 +21,9 @@
     <img src="https://github.com/Oldenzel/Oldenzel/blob/main/empower.png">
 </a>
 <br>
+</div>
 
-<div>
+<div align=center>
 <a href="https://x.com/Oldenzela">
     <img src="https://github.com/Oldenzel/Oldenzel/blob/main/Twitter%20logo.png" width=40>
 </a>
@@ -34,4 +35,3 @@
 </a>
 </div>
 
-</div>
