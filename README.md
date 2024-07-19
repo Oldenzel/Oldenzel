@@ -34,5 +34,8 @@
 <a href="https://medium.com/@Oldenzel">
     <img src="https://github.com/Oldenzel/Oldenzel/blob/main/1200px-Medium_logo_Monogram.svg.png" width=40>
 </a>
+<a href="https://discord.com/users/961421832026742834">
+    <img src="https://github.com/Oldenzel/Oldenzel/blob/main/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png" width=40>
+</a>
 </div>
 
