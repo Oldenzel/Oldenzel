@@ -1,5 +1,5 @@
 <div align=center>
-    <img src="background-image-url.jpg" alt="Background Image" width="100%">
+    <img src="https://github.com/Oldenzel/Oldenzel/blob/main/Oldenzel-BG.png%20.png">
 
     <h1>Oldenzel 🚀</h1>
 
