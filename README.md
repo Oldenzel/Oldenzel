@@ -3,6 +3,10 @@
 
 <h1>Oldenzel 🚀</h1>
 
+<a href="https://testnet.side.explorers.guru/validator/bcvaloper1yygv0q9a6yfpzkxarnn4s2mu2s8lue7aqv44fm">
+    <img src="https://pbs.twimg.com/profile_images/1666366346492542977/ywO_kmkx_200x200.jpg">
+</a>
+
 <h2>Skills</h2>
 <ul align="left" style="display: inline-block; text-align: left;">
 <li><strong>Blockchain Validation</strong> 📊</li>
