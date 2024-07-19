@@ -1,5 +1,5 @@
 <div align=center>
-    <img src="https://github.com/Oldenzel/Oldenzel/blob/main/Oldenzel-BG.png%20.png">
+    <img src="https://github.com/Oldenzel/Oldenzel/blob/main/Oldenz22el-BG.png%20.png">
 
 <h1>Oldenzel 🚀</h1>
 
