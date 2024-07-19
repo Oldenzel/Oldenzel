@@ -9,6 +9,15 @@
 <a href="https://scan.initia.tech/initiation-1/validators/initvaloper10rem5g6ygjmzvmfpmavvxt5wnnkvtejnj093x7">
     <img src="https://pbs.twimg.com/profile_images/1604751287618113536/ayyW6i94_200x200.jpg">
 </a>
+<a href="https://lava.explorers.guru/validator/lava@valoper1lfyn90k5m7qljm2wp7l5ct25htf7j339tsn90k">
+    <img src="https://pbs.twimg.com/profile_images/1628433459977850882/l4oqDz8R_200x200.jpg">
+</a>
+<a href="https://testnet.ping.pub/nillion/staking/nillionvaloper1kf2lnzt6xhay5q76fdz2rd96yhyjk5dgmtnrq7">
+    <img src="https://pbs.twimg.com/profile_images/1464770850293534720/AdOJJAHw_200x200.jpg">
+</a>
+<a href="https://socotra.mcnscan.io/chain/2o7k5CsYB85Fb1dimdrkwhHCeGeZ1gpXq1srgT3FTTr1wNvdrP">
+    <img src="https://pbs.twimg.com/profile_images/1660629238372790273/zmyiq2yj_200x200.jpg">
+</a>
 
 <h2>Skills</h2>
 <ul align="left" style="display: inline-block; text-align: left;">
