@@ -40,8 +40,5 @@
 <a href="https://discord.com/users/961421832026742834">
     <img src="https://github.com/Oldenzel/Oldenzel/blob/main/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png" width=40 hspace=10>
 </a>
-<a href="https://teletype.in/@oldenzel">
-    <img src="https://github.com/Oldenzel/Oldenzel/blob/main/images%20(1).png" width=40 hspace=10>
-</a>
 </div>
 
