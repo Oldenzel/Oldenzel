@@ -22,8 +22,9 @@
 </a>
 <br>
 </div>
-
+<br>
 <div align=center>
+    <br>
 <a href="https://x.com/Oldenzela">
     <img src="https://github.com/Oldenzel/Oldenzel/blob/main/Twitter%20logo.png" width=40>
 </a>
