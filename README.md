@@ -26,6 +26,18 @@
 <a href="https://testnet.itrocket.net/empower/staking/empowervaloper18t62ldkfaqudtkv8ulk2vn9nlpfysvf90hj99v">
     <img src="https://github.com/Oldenzel/Oldenzel/blob/main/empower.png">
 </a>
+<a href="https://medium.com/@Oldenzel/oldenzel-valuedator-1ed1f403ffb8">
+    <img src="https://github.com/user-attachments/assets/fe5444cc-7a3b-4112-b13d-92a6d3c126dc">
+</a>
+<a href="https://voracious-walk-472.notion.site/Oldenzel-5a0d01db335841aeb31a1ae7bc58791a">
+    <img src="https://github.com/user-attachments/assets/9468931f-c703-4fb8-b9b9-f0e567d43c72">
+</a>
+<a href="https://voracious-walk-472.notion.site/Oldenzel-5a0d01db335841aeb31a1ae7bc58791a">
+    <img src="https://github.com/user-attachments/assets/565f9a2f-12c4-43be-9c3b-bc7d1d5e4e98">
+</a>
+<a href="https://voracious-walk-472.notion.site/Oldenzel-5a0d01db335841aeb31a1ae7bc58791a">
+    <img src="https://github.com/user-attachments/assets/42dafc85-a159-49c6-8029-841bf01a03aa">
+</a>
 <br>
 </div>
 <br>
@@ -47,4 +59,3 @@
     <img src="https://github.com/Oldenzel/Oldenzel/blob/main/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png" width=40 hspace=10>
 </a>
 </div>
-
